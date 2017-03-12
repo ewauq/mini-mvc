@@ -40,7 +40,7 @@ return array(
      * Le chemin de base de l'application, où se trouve le fichier index.php.
      * Ne pas inclure le dernier / dans le chemin complet.
      */
-    'base_app' => 'http://localhost/projects/php/mvc'
+    'base_app' => 'http://localhost/projects/php/mini-mvc'
 
 );
 
